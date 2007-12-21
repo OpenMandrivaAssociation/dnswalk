@@ -8,6 +8,7 @@ License:	Artistic
 Source0:	%{name}-%{version}.tar.bz2
 Patch0:		%{name}-%{version}-perlpath.patch
 BuildArch:	noarch
+BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 dnswalk is a DNS debugger. It performs zone transfers of specified
