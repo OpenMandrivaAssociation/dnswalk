@@ -1,7 +1,7 @@
 Summary:	The dnswalk DNS database debugger
 Name:		dnswalk
 Version:	2.0.2
-Release:	%mkrel 7
+Release:	%mkrel 8
 Group:		Networking/Other
 URL:		http://www.visi.com/~barr/dnswalk/
 License:	Artistic
