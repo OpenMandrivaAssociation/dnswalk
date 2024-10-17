@@ -3,7 +3,7 @@ Name:		dnswalk
 Version:	2.0.2
 Release:	10
 Group:		Networking/Other
-URL:		http://www.visi.com/~barr/dnswalk/
+URL:		https://www.visi.com/~barr/dnswalk/
 License:	Artistic
 Source0:	%{name}-%{version}.tar.bz2
 Patch0:		%{name}-%{version}-perlpath.patch
